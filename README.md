@@ -1,7 +1,7 @@
 - 👋 Hola, soy @AlejOfPyroGamer
-- 👀 I’m interested in games
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
+- 👀 Me interesan los videojuegos
+- 🌱 Actualmente estoy aprendiendo html
+- 💞️ Busco colaborar en ...
 - 📫 How to reach me: pyrobussines@protonmail.com
 
 <!---
